@@ -5,3 +5,11 @@ As a part of the courses "Computer Architecture and Computer Architecture and La
 This is the link to the paper: https://users.ece.cmu.edu/~vigneshb/papers/hpca21.pdf
 
 We have tried to implement the paper in Champsim.
+
+Division of labour:
+
+Paper review and formulation of initial strategies - All the team members
+Trying out initial strategies - Krushnakant & Ridayesh, Adarsh & Aman - worked in groups of two
+PIN coding - Aman & Adarsh
+Algo implementation - Ridayesh & Krushnakant
+Final debugging & ppt - Adarsh, Aman, Ridayesh, Krushnakant
